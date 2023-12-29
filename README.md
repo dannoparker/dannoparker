@@ -7,12 +7,10 @@ Here are some ideas to get you started:
 
 <!-- 
 - 🔭 I’m currently working on ...
--->
-- 🌱 I’m currently learning more about GitHub Copilot
-<!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 -->
+- 🌱 I’m currently learning more about GitHub Copilot
 - 💬 Ask me about GitHub Copilot! 
 - 📫 How to reach me: [danwparker@outlook.com](mailto:danwparker@outlook.com)
 <!-- - 😄 Pronouns: ...
